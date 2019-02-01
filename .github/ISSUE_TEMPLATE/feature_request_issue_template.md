@@ -1,6 +1,9 @@
 ---
-name: Feature request or new idea ✨
-about: Suggest a new feature or something you would like see
+name: ขอคุณสมบัติหรือ✨ความคิดใหม่
+about: แนะนำคุณลักษณะใหม่หรือสิ่งที่คุณต้องดู
+title: ''
+labels: ''
+assignees: ''
 
 ---
 
