@@ -1,6 +1,9 @@
 ---
-name: Syntax Colorization bug report 🌈
-about: Puppet syntax colorization issues are tracked in a separate GitHub repo.
+name: 'รายงานข้อผิดพลาดของไวยากรณ์ปรับสี   '
+about: ปัญหาหุ่นไวยากรณ์ปรับสีได้ติดตามใน repo GitHub แยกต่างหาก
+title: ''
+labels: ''
+assignees: ''
 
 ---
 

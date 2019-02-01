@@ -1,8 +1,12 @@
 ---
-name: Bug report 🐞
-about: Report an error or unexpected behavior
+name: 'รายงานข้อผิดพลาด   '
+about: รายงานข้อผิดพลาดหรือลักษณะการทำงานที่ไม่คาดคิด
+title: ''
+labels: ''
+assignees: ''
 
 ---
+
 <!-- 
 Thanks for taking the time to reach out to us!
 

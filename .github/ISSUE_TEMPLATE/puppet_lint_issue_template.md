@@ -1,6 +1,9 @@
 ---
-name: Puppet lint bug report ⛔️
-about: Puppet lint issues are tracked in a separate GitHub repo.
+name: ตุ๊กตาผ้า bug รายงาน⛔️
+about: ตุ๊กตาผ้าปัญหามีติดตามใน repo GitHub แยกต่างหาก
+title: ''
+labels: ''
+assignees: ''
 
 ---
 
